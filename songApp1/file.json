@@ -1,0 +1,162 @@
+[
+    {
+      "img_src": "./imges/img1.jpg",
+      "name":"Scarborough fair",
+      "singer":"Sarah Brightman",
+      "country":"England",
+      "type":"pop",
+      "id":1
+    },
+    {
+      "img_src": "./imges/img2.jpg",
+      "name":"GreenSleeves",
+      "singer":"Traditional",
+      "country":"England",
+      "type":"pop",
+      "id":2
+    },
+    {
+      "img_src":"./imges/img3.jpg",
+      "name":"you are beautiful",
+      "singer":"Joe coker",
+      "country":"England",
+      "type":"pop",
+      "id":3
+    },
+    {
+      "img_src":"./imges/img4.jpg",
+      "name":"Sealed with a kiss",
+      "singer":"Dana Winner",
+      "country":"Belgian",
+      "type":"pop",
+      "id":4
+    },
+    {
+      "img_src":"./imges/img5.jpg",
+      "name":"right here waiting you",
+      "singer":"Richard Marx",
+      "country":"American",
+      "type":"pop",
+      "id":5
+    },
+    {
+      "img_src":"./imges/img6.jpg",
+      "name":"love story",
+      "singer":"Tayler Swiff",
+      "country":"American",
+      "type":"country",
+      "id":6
+    },
+    {
+      "img_src":"./imges/img7.jpg",
+      "name":"take me home country roads",
+      "singer":"John",
+      "country":"American",
+      "type":"country",
+      "id":7
+    },
+    {
+      "img_src":"./imges/img8.jpg",
+      "name":"if i could",
+      "singer":"Simon& Ganfun Kel",
+      "country":"American",
+      "type":"country",
+      "id":8
+    },
+    {
+      "img_src":"./imges/img9.jpg",
+      "name":"blowing in the wind",
+      "singer":"Bob Qylar",
+      "country":"American",
+      "type":"country",
+      "id":9
+    },
+    {
+      "img_src":"./imges/img10.jpg",
+      "name":"lemon tree",
+      "singer":"Fools Garden",
+      "country":"American",
+      "type":"country",
+      "id":10
+    },
+    {
+      "img_src":"./imges/img11.jpg",
+      "name":"lose yourself",
+      "singer":"Eminern",
+      "country":"American",
+      "type":"rap",
+      "id":11
+    },
+    {
+      "img_src":"./imges/img12.jpg",
+      "name":"mockingbird",
+      "singer":"Eminern",
+      "country":"American",
+      "type":"rap",
+      "id":12
+    },
+    {
+      "img_src":"./imges/img13.jpg",
+      "name":"empire state of mind",
+      "singer":"JAY-Z",
+      "country":"American",
+      "type":"rap",
+      "id":13
+    },
+    {
+      "img_src":"./imges/img15.jpg",
+      "name":"not afraid",
+      "singer":"Eminern",
+      "country":"American",
+      "type":"rap",
+      "id":14
+    },
+    {
+      "img_src":"./imges/img14.jpg",
+      "name":"no sleep",
+      "singer":"Wiz Khalifa",
+      "country":"American",
+      "type":"rap",
+      "id":15
+    },
+    {
+      "img_src":"./imges/img16.jpg",
+      "name":"we will rock you",
+      "singer":"Queen",
+      "country":"American",
+      "type":"rock",
+      "id":16
+    },
+    {
+      "img_src":"./imges/img18.jpg",
+      "name":"key jude",
+      "singer":"The Beafles",
+      "country":"American",
+      "type":"rock",
+      "id":17
+    },
+    {
+      "img_src":"./imges/img19.jpg",
+      "name":"keros",
+      "singer":"Keros",
+      "country":"American",
+      "type":"rock",
+      "id":18
+    },
+    {
+      "img_src":"./imges/img21.jpg",
+      "name":"money for nothing",
+      "singer":"Dive straights",
+      "country":"American",
+      "type":"rock",
+      "id":19
+    },
+    {
+      "img_src":"./imges/img20.jpg",
+      "name":"every breath you take",
+      "singer":"Richard Marx",
+      "country":"American",
+      "type":"rock",
+      "id":20
+    }
+  ]
