@@ -183,3 +183,24 @@
 .country{
     font-size: small;
 }
+@media screen and (max-width:380px){
+    .btn-box1{
+        display: flex;
+        justify-content: space-between;
+        background-color:rgba(173, 216, 230, 0.181);
+        color:white;
+        padding: 20px;
+        font-size: small;
+        font-weight: 360;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    .search-btn{
+        position: fixed;
+        top: 132px;
+        right: 18px;
+        padding:3px;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+}
